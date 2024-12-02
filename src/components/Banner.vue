@@ -8,7 +8,7 @@
           alt="Banner Image"
         />
         <div>
-          <h1 class="text-5xl font-bold">Welcome to My Website</h1>
+          <h1 class="text-5xl font-bold">Welcome to My Websie</h1>
           <p class="py-6">
             Explore our amazing features and services tailored to your needs. Dive in and learn more!
           </p>
